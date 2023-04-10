@@ -2,7 +2,7 @@
   "name": "pp1-od",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://odarvish.github.io/js-framework-react-ass3/",
+  "homepage": "https://odarvish.github.io/js-framework-react-ass3",
   "type": "module",
   "scripts": {
     "dev": "vite",
